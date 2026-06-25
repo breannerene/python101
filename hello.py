@@ -105,3 +105,7 @@ print(f"Item Price: ${item_price}")
 print(f"Quantity: {quantity}")
 # the total price of what they bought
 print(f"Total Price: ${rounded_total_price}")
+
+
+#this is my additional code I have added
+print ("FIFA WORLD CUP 2026")
